@@ -1,3 +1,0 @@
-package = platform.OpenAL
-depends = posix
-headers = AL/al.h AL/alc.h
